@@ -1,10 +1,11 @@
 import './App.css';
+import Quora from './components/Quora.js';
 
 function App() {
   return (
-    
-      <h1>head</h1>
-    
+    <>
+      <Quora/>
+      </>
   );
 }
 
